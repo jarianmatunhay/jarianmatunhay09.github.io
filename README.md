@@ -56,7 +56,7 @@ Bachelor of Science in Computer Engineering
 - Microcontroller Embedded C Programming: Absolute Beginners
 
 ## 📎 Certificates
-- 39005538-857f-4eb9-9d8e-642fa8f66d91.jpg
+- 
 - [Certificate 2]()
 - [Certificate 3]()
 
