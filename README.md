@@ -60,12 +60,9 @@ Bachelor of Science in Computer Engineering
 - https://github.com/jarianmatunhay/jarianmatunhay09.github.io/blob/main/40f4dc7f-6337-4730-9a48-3c40bedb0a6b.jpg)
 - https://github.com/jarianmatunhay/jarianmatunhay09.github.io/blob/main/39005538-857f-4eb9-9d8e-642fa8f66d91.jpg
 
----
-
 ## 📞 Contact Information
 - Email: jarianmatunhay99@gmail.com
 - Contact Number: 09275940871
 - Facebook: Jarian Matunhay https://web.facebook.com/XxDimitriYayatxX/
 - GitHub: https://github.com/yourusername  
 
----
